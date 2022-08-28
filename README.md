@@ -7,6 +7,10 @@
   </tr>
   <tr>
     <td>Rodrigo</td>
-    <td>Maceio</td>
+    <td>Maceió</td>
+  </tr>
+  <tr>
+    <td>Eduarda</td>
+    <td>Caruaru</td>
   </tr>
 </table>
